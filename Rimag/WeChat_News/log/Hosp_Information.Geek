@@ -1,0 +1,29 @@
+[
+  {
+    "hospital_name": "北京天坛普华医院",
+    "hospital_id": "13",
+    "state_name": "北京市",
+    "state_id": "1",
+    "city_id": "1",
+    "city": "北京市",
+    "nfsip": "nfs.cloud.beijing.rimag.com.cn",
+    "dcmip": "dcm.cloud.beijing.rimag.com.cn",
+    "server_ip": "tra.cloud.beijing.rimag.com.cn",
+    "aet": [
+      {
+        "id": "40",
+        "aet": "BJCWTTPHYYCT",
+        "hostname": "bjcwttphyy",
+        "device_type": "CT",
+        "ssh_port": "10010"
+      },
+      {
+        "id": "184",
+        "aet": "BJCWTTPHYYLOG",
+        "hostname": "bjcwttphyy1",
+        "device_type": "XX",
+        "ssh_port": "10011"
+      }
+    ]
+  }
+]

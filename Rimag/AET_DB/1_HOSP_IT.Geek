@@ -1,0 +1,29 @@
+[
+  {
+    "hospital_name": "土默特左旗人民医院",
+    "hospital_id": "172",
+    "state_name": "内蒙古自治区",
+    "state_id": "5",
+    "city_id": "25",
+    "city": "呼和浩特市　",
+    "nfsip": "nfs2.neimeng.rimag.com.cn",
+    "dcmip": "dcm2.neimeng.rimag.com.cn",
+    "server_ip": "tra2.neimeng.rimag.com.cn",
+    "aet": [
+      {
+        "id": "233",
+        "aet": "NMGTMTZQRMYYCT",
+        "hostname": "NMGTMTZQRMYY",
+        "device_type": "CT",
+        "ssh_port": "10079"
+      },
+      {
+        "id": "234",
+        "aet": "NMGTMTZQRMYYDR",
+        "hostname": "NMGTMTZQRMYY",
+        "device_type": "DR",
+        "ssh_port": "10079"
+      }
+    ]
+  }
+]

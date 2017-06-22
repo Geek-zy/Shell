@@ -1,2 +1,0 @@
-mv sync/2/*.c sync_bak/
-mv sync_bak/*.c sync/2/
